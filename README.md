@@ -1,4 +1,4 @@
-# 🎵 Konata Discord Music Bot <br>
+# 🎵 Konata Discord Music Bot (discord.js - v13.6.0 OUTDATED)<br>
 
 A powerful, feature-rich, and easy-to-use Discord music bot! Bring your server to life with high-quality music, playlists, filters, and more. Supports YouTube, Spotify, SoundCloud, and more! 
 
